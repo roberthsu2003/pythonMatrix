@@ -1,8 +1,7 @@
 # python基礎 
 
 
-## 安裝pycharm (本地端編輯器)
-[安裝pycharm community](https://www.jetbrains.com/pycharm/)  
+ 
 
 
 ## python 編譯器語言
